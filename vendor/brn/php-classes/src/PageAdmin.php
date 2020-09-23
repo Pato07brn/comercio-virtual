@@ -1,6 +1,8 @@
 <?php 
 	
 namespace Brn;
+use \Brn\DB\Sql;
+
 
 class PageAdmin extends Page{
 
