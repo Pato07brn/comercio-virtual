@@ -1,8 +1,8 @@
 {
-    "name": "Pato07brn/ecommerce",
+    "name": "Brn/ecommerce",
     "authors": [
         {
-            "name": "Bruno Nascimento",
+            "name": "Bruno",
             "email": "brunonascimento0507@gmail.com"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Brn\\": "vendor\\brn\\php-classes\\src"
+            "Brn\\": "vendor\\Brn\\php-classes\\src"
         }
     }
 }

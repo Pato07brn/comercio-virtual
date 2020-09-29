@@ -1,12 +1,12 @@
 <?php 
 
-namespace Brn\DB;
+namespace Hcode\DB;
 
 class Sql {
 
-	const HOSTNAME = "127.0.0.1";
-	const USERNAME = "";
-	const PASSWORD = "";
+	const HOSTNAME = "localhost";
+	const USERNAME = "BRN";
+	const PASSWORD = "34091620";
 	const DBNAME = "db_ecommerce";
 
 	private $conn;
